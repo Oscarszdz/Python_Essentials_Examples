@@ -1,5 +1,5 @@
 # Python_Essentials_Examples
-Basic python examples
+Basic python examples for everyday
 
 Examples that allow me to increase my Python skills (from various sources mentioned)
 
