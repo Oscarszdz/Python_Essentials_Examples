@@ -9,4 +9,4 @@
 # Zeppelin ignored files
 /ZeppelinRemoteNotebooks/
 # Python projects
-__pycache__
+__pycache__/
