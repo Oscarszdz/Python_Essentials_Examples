@@ -1,7 +1,7 @@
-# Python_Essentials_Examples
+# Python Essentials Examples
 Basic python examples for everyday
 
-Examples that allow me to increase my Python skills (from various sources mentioned)
+Basic examples that allow me to increase my Python skills (from various sources mentioned)
 
 TOPICS
 1. __main__ explained
