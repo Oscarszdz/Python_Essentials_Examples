@@ -9,7 +9,3 @@ TOPICS
 3. unittest
 4. github
 5. Functions
-6. Spark
-7. Scala
-8. SQL
-9. Jentkins
