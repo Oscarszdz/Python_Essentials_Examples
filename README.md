@@ -9,4 +9,8 @@ TOPICS
 3. unittest
 4. github
 5. Functions
+<<<<<<< HEAD
 6. String manipulation
+=======
+6. TODO
+>>>>>>> refs/remotes/origin/main
