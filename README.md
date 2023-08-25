@@ -9,3 +9,5 @@ Basic examples that allow me to increase my Python skills (from various sources 
 3. unittest
 4. github
 5. Functions
+6. String manipulation
+7. TODO
