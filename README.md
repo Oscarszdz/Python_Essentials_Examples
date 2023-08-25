@@ -11,5 +11,3 @@ Basic examples that allow me to increase my Python skills (from various sources 
 5. Functions
 6. String manipulation
 7. TODO
-8. TODO
-9. TODO
