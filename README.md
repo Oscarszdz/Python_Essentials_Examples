@@ -11,7 +11,11 @@ Basic examples that allow me to increase my Python skills (from various sources 
 5. Functions
 6. String manipulation
 7. TODO
-
+8. TODO
+9. TODO
+10. TODO
+11. TODO
+12. TODO
 
 Many teams use this file to hold all the relevant project information for someone who might be new to the repository or project.
 This generally includes things like:
